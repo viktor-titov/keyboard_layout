@@ -7,14 +7,17 @@
 # v2.0
 
 референс на раскладки
- https://habr.com/ru/articles/566784/
- https://github.com/devpew/zmk-config/tree/master
- 
-
-ЕЩЕ НЕТ ВСЕХ СИМВОЛОВ 
-
-Изменения:
+- https://habr.com/ru/articles/566784/
+- https://github.com/devpew/zmk-config/tree/master
+- https://github.com/senz/zmk-config
 
 
 __screenshots__
 
+![alt text](./.screenshots/image.png)
+![alt text](./.screenshots/image-1.png)
+![alt text](./.screenshots/image-2.png)
+![alt text](./.screenshots/image-3.png)
+![alt text](./.screenshots/image-4.png)
+![alt text](./.screenshots/image-5.png)
+![alt text](./.screenshots/image-6.png)
